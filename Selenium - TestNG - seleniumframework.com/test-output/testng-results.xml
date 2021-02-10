@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45898" started-at="2021-01-28T13:42:20 CET" finished-at="2021-01-28T13:43:05 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45898" started-at="2021-01-28T13:42:20 CET" finished-at="2021-01-28T13:43:05 CET">
+      <class name="domaci_26_01_2021.Zadatak">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="beforeClass" is-config="true" duration-ms="1748" started-at="2021-01-28T13:42:20 CET" finished-at="2021-01-28T13:42:21 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="beforeMethod" is-config="true" duration-ms="4492" started-at="2021-01-28T13:42:21 CET" finished-at="2021-01-28T13:42:26 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="assertAllFields()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="assertAllFields" duration-ms="277" started-at="2021-01-28T13:42:26 CET" finished-at="2021-01-28T13:42:26 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertAllFields -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="afterMethod" is-config="true" duration-ms="5183" started-at="2021-01-28T13:42:26 CET" finished-at="2021-01-28T13:42:31 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="beforeMethod" is-config="true" duration-ms="3926" started-at="2021-01-28T13:42:31 CET" finished-at="2021-01-28T13:42:35 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="submitForm()[pri:5, instance:domaci_26_01_2021.Zadatak@131276c2]" name="submitForm" duration-ms="25377" started-at="2021-01-28T13:42:35 CET" finished-at="2021-01-28T13:43:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="afterMethod" is-config="true" duration-ms="4765" started-at="2021-01-28T13:43:01 CET" finished-at="2021-01-28T13:43:05 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:domaci_26_01_2021.Zadatak@131276c2]" name="afterClass" is-config="true" duration-ms="66" started-at="2021-01-28T13:43:05 CET" finished-at="2021-01-28T13:43:05 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- domaci_26_01_2021.Zadatak -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

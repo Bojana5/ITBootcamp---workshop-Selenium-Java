@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62162" started-at="2021-02-05T20:16:51 CET" finished-at="2021-02-05T20:17:53 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62162" started-at="2021-02-05T20:16:51 CET" finished-at="2021-02-05T20:17:53 CET">
+      <class name="test5tests.Tests">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test5tests.Tests@26aa12dd]" name="beforeClass" is-config="true" duration-ms="1615" started-at="2021-02-05T20:16:51 CET" finished-at="2021-02-05T20:16:52 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:test5tests.Tests@26aa12dd]" name="setup" is-config="true" duration-ms="2723" started-at="2021-02-05T20:16:52 CET" finished-at="2021-02-05T20:16:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:test5tests.Tests@26aa12dd]" name="logInTest" duration-ms="16106" started-at="2021-02-05T20:16:55 CET" finished-at="2021-02-05T20:17:11 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test5tests.Tests@26aa12dd]" name="afterTest" is-config="true" duration-ms="2233" started-at="2021-02-05T20:17:11 CET" finished-at="2021-02-05T20:17:13 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:test5tests.Tests@26aa12dd]" name="setup" is-config="true" duration-ms="2084" started-at="2021-02-05T20:17:13 CET" finished-at="2021-02-05T20:17:15 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="orderingTests()[pri:5, instance:test5tests.Tests@26aa12dd]" name="orderingTests" duration-ms="35209" started-at="2021-02-05T20:17:15 CET" finished-at="2021-02-05T20:17:51 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderingTests -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test5tests.Tests@26aa12dd]" name="afterTest" is-config="true" duration-ms="2035" started-at="2021-02-05T20:17:51 CET" finished-at="2021-02-05T20:17:53 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test5tests.Tests@26aa12dd]" name="afterClass" is-config="true" duration-ms="81" started-at="2021-02-05T20:17:53 CET" finished-at="2021-02-05T20:17:53 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test5tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
